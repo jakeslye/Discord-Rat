@@ -10,13 +10,21 @@ This code is really bad and probly half of it is copyed from stack overflow.
 
 # Features (commands):
 Program not displayed on task maneger.
+
 !ping - is just a test command to see if the bot is up
+
 !get desktop - returns a jpg photo of monitor one
+
 !get chrome passwords - returns the encrypted chrome password file
+
 !get info - reuturns computer name and ip adress.
+
 !get files {directory} - returns are file in directory and all sub files. If you run this in a folder like C:/ your gonna have a bad time.
+
 !get file {directory} - returns the file from the specified directory.
+
 !send messagebox {message} - displayes a message box with the message text.
+
 !send startup {true/false} - if true this will add the program to startup, if false it will not be added to startup.
 
 # Credits:
