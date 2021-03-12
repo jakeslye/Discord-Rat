@@ -33,3 +33,9 @@ Everything else is from google or me.
 
 # IMPORTANT NOTE:
 Dont use this to accually give someone a virus. If you do, I'm not responsible.
+
+# Photos:
+![image](https://user-images.githubusercontent.com/61893488/110912919-5ae61e80-82c9-11eb-8886-c4b221153c41.png)
+![image](https://user-images.githubusercontent.com/61893488/110912941-5f123c00-82c9-11eb-9ef5-eea34966567b.png)
+![image](https://user-images.githubusercontent.com/61893488/110912958-63d6f000-82c9-11eb-95b1-4d2dc87097ab.png)
+
