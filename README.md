@@ -1,5 +1,5 @@
 # Discord-Rat
-This program uses the discord.net library to rat (remote access trojan) your victims computer. You can control it in a discord server and is undetected by 95% of anti viruses.
+This program uses the discord.net library to rat (remote access trojan) your victims computer. You can control it in a discord server and is undetected by 95% of anti viruses. (used to be now its like 50%)
 https://www.virustotal.com/gui/file/2a5d435f87830948aa7b4c68064d05943c5f899797bc50b099b1319c9c573520/detection
 
 # How this works:
